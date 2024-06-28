@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am a professional full stack developer from Hyderabad, Telangana, specializing in creating robust web applications with expertise in both front-end and back-end technologies. Committed to high-quality solutions, I excel in delivering seamless digital experiences and tackling complex challenges.
+I am a full stack developer from Hyderabad, Telangana, specializing in creating robust web applications with expertise in both front-end and back-end technologies. Committed to high-quality solutions, I excel in delivering seamless digital experiences and tackling complex challenges.
 
 
 # Vedio-Library
